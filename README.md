@@ -1,4 +1,4 @@
-# LLM Firewall 🛡️
+# LLM Sentinel 🛡️
 
 A lightweight security middleware that protects LLM applications from prompt injection attacks and PII data leaks.
 
