@@ -82,7 +82,7 @@ Open `http://localhost:5000`
 
 ## Tech Stack
 
-Python · Flask · LLaMA 3.3 70B · Groq API · Regex · fpdf2
+Python · Flask · LLaMA 3.3 70B · Groq API · Regex 
 
 ## Author
 
