@@ -87,4 +87,4 @@ Python · Flask · LLaMA 3.3 70B · Groq API · Regex · fpdf2
 ## Author
 
 Priya Patil — [GitHub](https://github.com/PriyaPPatil22) · 
-[LinkedIn](https://linkedin.com/in/your-handle)
+[LinkedIn](https://www.linkedin.com/in/priya-patil-cybersecurity/)
